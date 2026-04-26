@@ -8,52 +8,52 @@
 ### all-student
 
 #### View Results Tree
-![](Screenshot/View Results Tree all-student.png)
+![](Screenshot/View%20Results%20Tree%20all-student.png)
 
 #### View Results in Table
-![](Screenshot/View Results in Table all-student.png)
+![](Screenshot/View%20Results%20in%20Table%20all-student.png)
 
 #### Summary Report
-![](Screenshot/Summary Report all-student.png)
+![](Screenshot/Summary%20Report%20all-student.png)
 
 #### Graph Results
-![](Screenshot/Graph Results all-student.png)
+![](Screenshot/Graph%20Results%20all-student.png)
 
 #### Cli test
-![](Screenshot/Cli test all-student.png)
+![](Screenshot/Cli%20test%20all-student.png)
 
 ### all-student-name
 
 #### View Results Tree
-![](Screenshot/View Results Tree all-student-name.png)
+![](Screenshot/View%20Results%20Tree%20all-student-name.png)
 
 #### View Results in Table
-![](Screenshot/View Results in Table all-student-name.png)
+![](Screenshot/View%20Results%20in%20Table%20all-student-name.png)
 
 #### Summary Report
-![](Screenshot/Summary Report all-student-name.png)
+![](Screenshot/Summary%20Report%20all-student-name.png)
 
 #### Graph Results
-![](Screenshot/Graph Results all-student-name.png)
+![](Screenshot/Graph%20Results%20all-student-name.png)
 
 #### Cli test
-![](Screenshot/Cli test all-student-name.png)
+![](Screenshot/Cli%20test%20all-student-name.png)
 
 ### highest-gpa
 
 #### View Results Tree
-![](Screenshot/View Results Tree highest-gpa.png)
+![](Screenshot/View%20Results%20Tree%20highest-gpa.png)
 
 #### View Results in Table
-![](Screenshot/View Results in Table highest-gpa.png)
+![](Screenshot/View%20Results%20in%20Table%20highest-gpa.png)
 
 #### Summary Report
-![](Screenshot/Summary Report highest-gpa.png)
+![](Screenshot/Summary%20Report%20highest-gpa.png)
 
 #### Graph Results
-![](Screenshot/Graph Results highest-gpa.png)
+![](Screenshot/Graph%20Results%20highest-gpa.png)
 
 #### Cli test
-![](Screenshot/Cli test highest-gpa.png)
+![](Screenshot/Cli%20test%20highest-gpa.png)
 
 </details>
